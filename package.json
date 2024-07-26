@@ -41,5 +41,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://kodi-subscription-server.vercel.app/"
+  "proxy": "https://kodi-subscription-server.vercel.app/api"
 }
